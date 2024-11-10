@@ -54,11 +54,11 @@ Open a browser and enter to
 ### Via Docker-hub
 Pull the image from Docker-hub
 ```
-docker pull na4va4/HashGenerator
+docker pull na4va4/hash-generator
 ```
 Start a container from the image
 ```
-docker run -p 8080:8080 na4va4/HashGenerator
+docker run -p 8080:8080 na4va4/hash-generator
 ```
 Open a browser and enter to
 [http://localhost:8080/upload](http://localhost:8080/upload)
